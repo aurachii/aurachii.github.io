@@ -1,18 +1,32 @@
-## A FORTRAN primer
+## Under Construction
 
-In order to learn a bit of computational economics it is important to use a 
+This site is under Construction
 
+Here is a Latex
 ---
 
 ### This is a header
 
 #### Some T-SQL Code
 
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
+```fortran
+!##############################################################################
+! PROGRAM HelloWorld
+!
+! ## Write "Hello World" to the console
+!
+! This code is published under the GNU General Public License v3
+!                         (https://www.gnu.org/licenses/gpl-3.0.en.html)
+!
+! Authors: Hans Fehr and Fabian Kindermann
+!          contact@ce-fortran.com
+!
+!##############################################################################
+program HelloWorld
+
+    write(*,*)'Hello World'
+
+end program
 ```
 
 #### Some PowerShell Code

@@ -29,3 +29,5 @@ end program
 ```
 
 ## Here is some Latex
+
+$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$

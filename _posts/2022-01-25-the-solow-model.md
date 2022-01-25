@@ -65,3 +65,6 @@ ax.set_ylabel('$k_t$', fontsize=14)
 ax.legend()
 plt.show()
 ```
+
+
+![](https://i.imgur.com/3k1mE17.png)
